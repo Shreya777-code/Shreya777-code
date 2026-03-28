@@ -25,8 +25,7 @@ I'm a student and beginner developer trying to learn by building small projects 
     How frontend and backend connect in real projects  
   
 🔧 What I'm Working On  
-    A Satellite Telemetry project (trying to connect frontend + backend properly)  
-    Small practice projects like To-Do apps and counters  
+    A Satellite Telemetry project (trying to connect frontend + backend properly)
     Improving problem-solving (DSA slowly, step by step)  
       
 🛠️ Tools I Use (learning phase)  
